@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/2/17 星期三 下午 4:36:40。
+     1>项目“F:\计算机网络课程设计\3（多播）\多播收发：刘兴龙 （收发同步）\多播收发：刘兴龙\多播收发：刘兴龙.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\计算机网络课程设计\3（多播）\多播收发：刘兴龙 （收发同步）\Release\多播收发：刘兴龙.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\计算机网络课程设计\3（多播）\多播收发：刘兴龙 （收发同步）\Release\多播收发：刘兴龙.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\计算机网络课程设计\3（多播）\多播收发：刘兴龙 （收发同步）\Release\多播收发：刘兴龙.lib" /MACHINE:X86 /SAFESEH "Release\多播收发：刘兴龙.res"
+         Release\stdafx.obj
+         "Release\多播收发：刘兴龙.obj"
+         "Release\多播收发：刘兴龙Dlg.obj"
+         正在生成代码
+         已完成代码的生成
+         多播收发：刘兴龙.vcxproj -> F:\计算机网络课程设计\3（多播）\多播收发：刘兴龙 （收发同步）\Release\多播收发：刘兴龙.exe
+     1>已完成生成项目“F:\计算机网络课程设计\3（多播）\多播收发：刘兴龙 （收发同步）\多播收发：刘兴龙\多播收发：刘兴龙.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.04
